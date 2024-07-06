@@ -1,7 +1,3 @@
-# Warning
-
-**I am no longer maintaining this code and the repository will be archived. Thanks a lot for using my code but now [dbisu](https://github.com/dbisu) has made the guide easy to follow so this code is useless.**
-
 # PyDucky Script
 
 In order to use this tool you must have
